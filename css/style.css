@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: rgba(22, 22, 22, 0.979);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-weight: bolder;
+}
+.mm{
+    padding: 30px;
+    height: 50px;
+    margin-bottom: 20px;
+   background-color:black;
+    
+
+}
+
+.div2{
+    padding: 30px;
+   height: 900px;
+   width: 600px;
+   background-color: black;
+    margin-left: 10px;
+    
+    text-align: center;
+    background-color:black(22, 22, 22, 0.753);
+    margin-left: 25%;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.f{ 
+    text-align: center;
+    width: 450px;
+    border: solid rgb(64, 62, 62) 1px;
+    border-radius: 20px;
+    margin-left: 15%;
+}
+.f p{
+    
+    font-size: larger;
+    margin-bottom: 25px;
+    height: 10px;
+    
+
+}
+.button button{
+    padding: 15px 10px;
+    width: 40%;
+    border: none;
+    border-radius: 15px;
+    background-color:rgb(9, 166, 14);
+    color: aliceblue;
+}
+.button button:hover{
+    background-color: green;
+}
+.box{
+    font-size: larger;
+}
+.aa a:hover{
+    color: red;
+}
+hr{
+    border: solid slategray 1px;
+}
+.input1{
+    font-size: large;
+    background-color: rgba(22, 22, 22, 0.979);
+    width: 300px;
+    height: 30px;
+    
+}
+label{
+    margin-right: 170px;
+}
+.ww:hover{
+    color: red;
+}
